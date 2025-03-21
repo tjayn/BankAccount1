@@ -1,3 +1,11 @@
+/*
+ * Program To Utilize Overidding of Methods
+ * Author: Thuku Josphat Wamwago
+ * Reg No: CT101/G/19448/23
+ * Date: 9/3/2025
+ * Version: 1
+ */
+
 import java.util.Scanner;
 
 class BankAccount{
