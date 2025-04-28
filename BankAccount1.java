@@ -8,6 +8,8 @@
 
 import java.util.Scanner;
 
+
+
 class BankAccount{
     protected double balance;
     public BankAccount(){
@@ -43,6 +45,7 @@ class CheckingAccount extends BankAccount{
         System.out.println("Withdrawal Successful: ");
         System.out.println("Charges: $1");
         System.out.println("New Balance: " + balance);
+        System.out.println("Thank You:)")
     }
 }
 class Main extends BankAccounts{
